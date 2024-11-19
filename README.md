@@ -67,5 +67,4 @@ To install all dependencies:
 pip install -r requirements.txt
 ```
 
-Mohammad Aleisah
-Wish You The Best
+Mohammad Aleisah, Wish You The Best
