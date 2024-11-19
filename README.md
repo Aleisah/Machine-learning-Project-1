@@ -65,6 +65,7 @@ The project requires the following Python libraries:
 To install all dependencies:
 ```bash
 pip install -r requirements.txt
+```
 
 Mohammad Aleisah
 Wish You The Best
